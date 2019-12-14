@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle competitive-programming",
+        "command": "competitive-programming:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "competitive-programming",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "competitive-programming:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
