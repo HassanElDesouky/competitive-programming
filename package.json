@@ -2,7 +2,7 @@
   "name": "competitive-programming",
   "main": "./lib/competitive-programming",
   "version": "0.0.0",
-  "description": "Commonly used competitive programming macros",
+  "description": "Commonly used C++ macros for competitive programming.",
   "keywords": [
   ],
   "activationCommands": {
